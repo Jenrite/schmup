@@ -1,2 +1,3 @@
 # schmup
-A schmup game, created in godot * this will be update
+A schmup game, created in godot * this will be updated **
+
